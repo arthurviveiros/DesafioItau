@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable weather_01d
+drawable weather_01n
+drawable weather_02d
+drawable weather_02n
+drawable weather_03d
+drawable weather_03n
+drawable weather_04d
+drawable weather_04n
+drawable weather_09d
+drawable weather_09n
+drawable weather_10d
+drawable weather_10n
+drawable weather_11d
+drawable weather_11n
+drawable weather_13d
+drawable weather_13n
+drawable weather_50d
+drawable weather_50n
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ItauDesafio
+xml backup_rules
+xml data_extraction_rules

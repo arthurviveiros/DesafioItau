@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_03d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_03d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_11n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_11n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_10d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_10d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_01n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_01n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_04d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_04d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_04n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_04n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_10n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_10n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_13d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_13d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_03n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_03n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_13n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_13n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_02d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_02d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_50d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_50d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_02n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_02n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/xml_backup_rules.xml.flat",
+        "source": "com.example.itaudesafio.app-main-73:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_50n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_50n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_09n.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_09n.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_11d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_11d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_01d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_01d.png"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.itaudesafio.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.itaudesafio.app-debug-71:/drawable-nodpi_weather_09d.png.flat",
+        "source": "com.example.itaudesafio.app-main-73:/drawable-nodpi/weather_09d.png"
+    }
+]
